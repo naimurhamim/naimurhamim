@@ -131,15 +131,6 @@
 <div align="center">
 <h2>📈&nbsp;GitHub Activity</h2>
 
-<br/>
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=naimurhamim&theme=onedark&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies"/>
-</a>
-
-<br/><br/>
-
 <!-- Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=naimurhamim&theme=transparent&background=386641&ring=a7c957&fire=bc4749&currStreakLabel=a7c957&sideLabels=f2e8cf&dates=6a994e&sideNums=f2e8cf&currStreakNum=a7c957&border=6a994e&border_radius=12)
 
