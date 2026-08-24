@@ -109,12 +109,13 @@
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---:|
-| 🛸 | **[AI Drone Surveillance](https://github.com/naimurhamim)** | Real-time multi-threat detection with Telegram alerts | `Python` `YOLO` `CV` |
-| 🤖 | **[ALGORA – AI Assistant](https://github.com/naimurhamim)** | Personal conversational AI assistant powered by NLP | `Python` `NLP` |
-| 🔥 | **[Fire Fighting Robot](https://github.com/naimurhamim)** | Autonomous fire detection & suppression robot | `C++` `IoT` |
-| 🚗 | **[License Plate Recognition](https://github.com/naimurhamim)** | YOLO v8 + EasyOCR plate detection pipeline | `Python` `HTML` `YOLO` |
-| 🧬 | **[GenomeIQ](https://github.com/naimurhamim)** | DNA disease classifier using DNABERT-2 transformer | `Python` `AI` |
-| 😊 | **[Emotion Recognition](https://github.com/naimurhamim)** | Facial emotion recognition with Bangla voice response | `Python` `Deep Learning` |
+| 🛸 | **[AI Drone Surveillance](https://github.com/naimurhamim/ai-driven-autonomous-aerial-surveillance-multi-threat-detection-public-safety-monitoring)** | Real-time multi-threat detection with Telegram alerts | `Python` `YOLO` `CV` |
+| 📱 | **[Tapin Attendance](https://github.com/naimurhamim/Tapin-Edge-Based-Attendance-Application)** | Edge-based smart attendance application | `Flutter` `Edge AI` |
+| 🫁 | **[PneumoSight](https://github.com/naimurhamim/PneumoSight---AI-Pneumonia-Detection)** | AI-powered pneumonia detection from chest X-rays | `Python` `Deep Learning` `CV` |
+| 🤖 | **[ALGORA – AI Assistant](https://github.com/naimurhamim/ALGORA---Personal-AI-Assistant)** | Personal conversational AI assistant powered by NLP | `Python` `NLP` |
+| 🚗 | **[License Plate Recognition](https://github.com/naimurhamim/License-Plate-Detection-and-Recognition)** | YOLO v8 + EasyOCR plate detection pipeline | `Python` `HTML` `YOLO` |
+| 🧬 | **[GenomeIQ](https://github.com/naimurhamim/GenomeIQ-A-DNA-disease-classifier-ai)** | DNA disease classifier using DNABERT-2 transformer | `Python` `AI` |
+| 😊 | **[Emotion Recognition](https://github.com/naimurhamim/Emotion-Recognition-System-with-Bangla-Voice-Response)** | Facial emotion recognition with Bangla voice response | `Python` `Deep Learning` |
 
 </div>
 
